@@ -1,1 +1,1 @@
-# Churn-analysis-and-predicition-using-machine-learning-algorithms
+# Ugyfellemorzsolodas_elemzes_es_elorejelzes_gepi_tanulasi_algoritmusokkal
