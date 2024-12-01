@@ -1,6 +1,6 @@
-# Ugyfellemorzsolodas_elemzes_es_elorejelzes_gepi_tanulasi_algoritmusokkal
+# Ugyfel-lemorzsolodas_elemzes_es_elorejelzes_gepi_tanulasi_algoritmusokkal
 
-Ez a projekt egy szakdolgozathoz készült program, amely a banki ügyféllemorzsolódás elemzését és előrejelzését végzi gépi tanulási algoritmusok segítségével. A dolgozat célja, hogy azonosítsa a lemorzsolódást befolyásoló kulcsfontosságú tényezőket, és hatékony prediktív modellekkel támogassa az ügyfélmegtartási stratégiákat.
+Ez a projekt egy szakdolgozathoz készült program, amely a banki ügyfél-lemorzsolódás elemzését és előrejelzését végzi gépi tanulási algoritmusok segítségével. A dolgozat célja, hogy azonosítsa a lemorzsolódást befolyásoló kulcsfontosságú tényezőket, és hatékony prediktív modellekkel támogassa az ügyfélmegtartási stratégiákat.
 
 ## Főbb jellemzők
 - **Adattisztítás és előfeldolgozás**: Az adathalmaz tisztítása, hiányzó adatok kezelése, kategóriák kódolása és skálázása.
