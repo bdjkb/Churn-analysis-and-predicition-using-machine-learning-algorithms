@@ -7,4 +7,4 @@ Ez a projekt egy szakdolgozathoz készült program, amely a banki ügyfél-lemor
 - **Vizualizációk és elemzések**: Grafikonok és statisztikai elemzések segítségével a lemorzsolódást befolyásoló tényezők azonosítása.
 - **Gépi tanulási modellek**: Többféle modell (pl. Logistic Regression, Random Forest, Gradient Boosting) összehasonlítása és kiértékelése.
 - **SMOTE használata**: Az adathalmaz kiegyensúlyozására a kisebbségi osztály (lemorzsolódás) pontosabb előrejelzése érdekében.
-- **Optimalizált modell**: A kiválasztott modell Recall értékre történő optimalizálása, amely lehetővé teszi a lemorzsolódó ügyfelek pontos azonosítását.
+- **Optimalizált modell**: A kiválasztott modell Recall értéke alapján történő optimalizálása, amely lehetővé teszi a lemorzsolódó ügyfelek pontos azonosítását.
